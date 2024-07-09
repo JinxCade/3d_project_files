@@ -1,0 +1,1 @@
+{"base":"vanilla","xmas":"vanilla","sky":"vanilla","aether_mod":"mod","alt_records":"mod","mc_parody":"mod","mcsm":"mod","minecon":"mod","twilight_mod":"mod"}
